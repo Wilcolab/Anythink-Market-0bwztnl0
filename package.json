@@ -1,0 +1,27 @@
+{
+  "name": "anythink-market-0bwztnl0",
+  "version": "1.0.0",
+  "description": "This project contains a FastAPI server implemented in Python. It provides two routes for managing a task list.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon node-server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wilcolab/Anythink-Market-0bwztnl0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wilcolab/Anythink-Market-0bwztnl0/issues"
+  },
+  "homepage": "https://github.com/Wilcolab/Anythink-Market-0bwztnl0#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
